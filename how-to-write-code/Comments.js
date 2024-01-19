@@ -2,7 +2,11 @@
 
    // console.log("This does not print.");
 
-   console.log("Hello, World!"); // Comments do not have to start at the beginning of a line.
+   console.log("Comment time!"); 
+   //you have to leave now
+
+   /* im scared
+   how will i ever escape */
 
    /* Here is how
    to have
